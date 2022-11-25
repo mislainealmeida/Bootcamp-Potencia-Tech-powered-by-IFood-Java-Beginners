@@ -1,4 +1,4 @@
-Como realizar commits no git
+Como realizar commits no git:
 First commit
 1º criar o repositório no github
 2º na pasta local abrir o git bash 
