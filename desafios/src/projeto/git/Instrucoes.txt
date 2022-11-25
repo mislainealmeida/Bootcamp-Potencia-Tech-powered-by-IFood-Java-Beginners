@@ -1,0 +1,19 @@
+Como realizar commits no git
+First commit
+1º criar o repositório no github
+2º na pasta local abrir o git bash 
+3º digitar git init 
+4º git add projeto (nome do arquivo)
+5º git commit -m "first commit"
+6º git remote add git(um nome) https://github.com/mislainealmeida/Bootcamp-Potencia-Tech-powered-by-Ifood-Java-Beginners.git (o link do repositório com final .git)
+7º git push git main (nome da branch)
+
+Second commit 
+1º git add instrucoes.txt
+2º gir commit -m "second commit"
+3º git remote add git2(um nome para a alteração realizada) https://github.com/mislainealmeida/Bootcamp-Potencia-Tech-powered-by-Ifood-Java-Beginners.git (o link do repositório com final .git)
+4º git push git2 main
+
+Para clonar um repositório remoto para o local: 
+1º abrir o git bash na sua pasta local 
+2º digitar git clone link do repositório. 
